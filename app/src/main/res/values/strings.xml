@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <!-- MAIN ACTIVITY STRINGS -->
+    <string name="time_spent_label">You spent 00:00:00 on ...last time</string>
+    <string name="time_label">00:00:00</string>
+    <string name="task_label">Enter your task name:</string>
+    <string name="edit_task_label">""</string>
+</resources>
